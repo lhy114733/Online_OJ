@@ -1,0 +1,17 @@
+# 构建产物
+*.o
+*.exe
+compile_server/compile_server
+build/
+
+# 判题临时产物
+*.cpp.tmp
+*_*.stdin
+*_*.stdout
+*_*.stderr
+*_*.compile_err
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
